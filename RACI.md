@@ -1,4 +1,4 @@
-# Swarm Intelligence — Draft RACI Matrix
+# Swarm Intelligence - Draft RACI Matrix
 
 Project: Multi-Agent Orchestration App
 
