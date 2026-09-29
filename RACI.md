@@ -4,11 +4,11 @@ Project: Multi-Agent Orchestration App
 
 ## Legend
 
-- R — Responsible: completes the work.
-- A — Accountable: owns its completion.
-- C — Consulted: provides advice or input.
-- I — Informed: receives progress updates.
-- A/R — Both accountable and responsible.
+- R - Responsible: completes the work.
+- A - Accountable: owns its completion.
+- C - Consulted: provides advice or input.
+- I - Informed: receives progress updates.
+- A/R - Both accountable and responsible.
 
 ## Responsibilities
 
